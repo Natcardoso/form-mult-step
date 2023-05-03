@@ -6,7 +6,7 @@ https://user-images.githubusercontent.com/88684378/236037713-1c9f5264-f414-4224-
 
 ## Stack utilizada
 
-**Front-end:** React, Typescript, Styled-Components
+**Front-end:** React, Typescript, Styled-Components, Vite
 
 
 ## Funcionalidades
