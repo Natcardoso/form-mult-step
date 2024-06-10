@@ -27,7 +27,7 @@ export const Content = styled.div`
         }
 
         input {
-            padding: 1.5rem 1rem;
+            padding: 1rem;
             border: none;
             background: var(--white);
             border-radius: 8px;
