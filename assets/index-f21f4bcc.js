@@ -251,7 +251,7 @@ Error generating stack: `+o.message+`
         }
 
         input {
-            padding: 1.5rem 1rem;
+            padding: 1rem;
             border: none;
             background: var(--white);
             border-radius: 8px;
